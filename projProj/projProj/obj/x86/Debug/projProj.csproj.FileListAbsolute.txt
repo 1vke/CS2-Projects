@@ -1,0 +1,11 @@
+D:\projProj\projProj\bin\x86\Debug\projProj.exe.config
+D:\projProj\projProj\bin\x86\Debug\projProj.exe
+D:\projProj\projProj\bin\x86\Debug\projProj.pdb
+D:\projProj\projProj\obj\x86\Debug\projProj.csproj.AssemblyReference.cache
+D:\projProj\projProj\obj\x86\Debug\projProj.csproj.SuggestedBindingRedirects.cache
+D:\projProj\projProj\obj\x86\Debug\projProj.Form1.resources
+D:\projProj\projProj\obj\x86\Debug\projProj.Properties.Resources.resources
+D:\projProj\projProj\obj\x86\Debug\projProj.csproj.GenerateResource.cache
+D:\projProj\projProj\obj\x86\Debug\projProj.csproj.CoreCompileInputs.cache
+D:\projProj\projProj\obj\x86\Debug\projProj.exe
+D:\projProj\projProj\obj\x86\Debug\projProj.pdb
