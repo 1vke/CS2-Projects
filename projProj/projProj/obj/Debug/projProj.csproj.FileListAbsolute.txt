@@ -1,0 +1,22 @@
+D:\projProj\projProj\bin\Debug\projProj.exe.config
+D:\projProj\projProj\bin\Debug\projProj.exe
+D:\projProj\projProj\bin\Debug\projProj.pdb
+D:\projProj\projProj\obj\Debug\projProj.csproj.AssemblyReference.cache
+D:\projProj\projProj\obj\Debug\projProj.Form1.resources
+D:\projProj\projProj\obj\Debug\projProj.Properties.Resources.resources
+D:\projProj\projProj\obj\Debug\projProj.csproj.GenerateResource.cache
+D:\projProj\projProj\obj\Debug\projProj.csproj.CoreCompileInputs.cache
+D:\projProj\projProj\obj\Debug\projProj.exe
+D:\projProj\projProj\obj\Debug\projProj.pdb
+D:\projProj\projProj\obj\Debug\projProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\bin\Debug\projProj.exe.config
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\bin\Debug\projProj.exe
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\bin\Debug\projProj.pdb
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\obj\Debug\projProj.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\obj\Debug\projProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\obj\Debug\projProj.Form1.resources
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\obj\Debug\projProj.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\obj\Debug\projProj.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\obj\Debug\projProj.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\obj\Debug\projProj.exe
+C:\Users\lucas\OneDrive\Documents\usb backup 2-1-23\projProj\projProj\obj\Debug\projProj.pdb

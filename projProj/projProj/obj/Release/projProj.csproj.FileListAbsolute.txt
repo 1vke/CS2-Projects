@@ -1,0 +1,10 @@
+D:\projProj\projProj\bin\Release\projProj.exe.config
+D:\projProj\projProj\bin\Release\projProj.exe
+D:\projProj\projProj\bin\Release\projProj.pdb
+D:\projProj\projProj\obj\Release\projProj.csproj.SuggestedBindingRedirects.cache
+D:\projProj\projProj\obj\Release\projProj.Form1.resources
+D:\projProj\projProj\obj\Release\projProj.Properties.Resources.resources
+D:\projProj\projProj\obj\Release\projProj.csproj.GenerateResource.cache
+D:\projProj\projProj\obj\Release\projProj.csproj.CoreCompileInputs.cache
+D:\projProj\projProj\obj\Release\projProj.exe
+D:\projProj\projProj\obj\Release\projProj.pdb
